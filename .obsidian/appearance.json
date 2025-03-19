@@ -1,4 +1,6 @@
 {
-  "cssTheme": "ITS Theme",
-  "theme": "obsidian"
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "accentColor": "#825cf5"
 }
